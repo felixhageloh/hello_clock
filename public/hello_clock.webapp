@@ -1,0 +1,13 @@
+{
+  "name": "Hello Clock",
+  "description": "See the current time",
+  "launch_path": "/",
+  "icons": {
+    "128": "/images/icon-128.png"
+  },
+  "developer": {
+    "name": "Felix Hageloh",
+    "url": "http://tracesof.net"
+  },
+  "default_locale": "en"
+}
