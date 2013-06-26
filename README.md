@@ -14,6 +14,10 @@ You'll need to have CoffeeScript and grunt installed. In case you haven't
 	npm install -g coffeescript
 	npm install -g grunt-cli
 	
+Then install all other dependencies by running
+	
+	npm install
+	
 Then run 
 	
 	grunt
